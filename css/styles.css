@@ -21,7 +21,7 @@ img {
 }
 
 body {
-  margin-left: calc((100% - 1440px) / 2);
+  /* margin-left: calc((100% - 1440px) / 2); */
   font-family: "Roboto", sans-serif;
   color: var(--text-adress-color);
   background-color: #ffffffff;
