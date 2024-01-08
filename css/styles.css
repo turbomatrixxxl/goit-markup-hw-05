@@ -135,17 +135,7 @@ header > .header-div {
   background-color: var(--link-hover-color);
   border-radius: 2px;
   display: block;
-  /* opacity: 0;
-  transition-property: opacity;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); */
 }
-
-/* .nav-list-studio:active:after,
-.nav-list-studio:focus::after,
-.nav-list-studio:hover::after {
-  opacity: 1;
-} */
 
 /* adress */
 
